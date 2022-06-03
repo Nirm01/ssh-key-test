@@ -13,6 +13,7 @@ for key,value in d1.items():
 
 print("key is ",op)
 print("I am adding local changes")
+print("Making changes in git ui")
 
 
 
